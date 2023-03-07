@@ -27,7 +27,7 @@
 
 ```bash 
 alias la='ls -A'
-alias iniweb sudo /etc/init.d/apache2 start
+alias iniweb='sudo /etc/init.d/apache2 start'
 ```
 
 
